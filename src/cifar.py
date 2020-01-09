@@ -1,4 +1,4 @@
-gedimport numpy as np
+import numpy as np
 import tensorflow as tf
 import tensorflow
 import pickle
